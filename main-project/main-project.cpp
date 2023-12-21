@@ -1,13 +1,16 @@
 ﻿// Vova Leksakov Роза ветров(6 Вариант)
-//
 #include <iostream>
+
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello\n";
+    cout << "Laboratory work #8. GIT\n";
+    cout << "Variant #0. Library Subscription\n";
+    cout << "Author: Sergey Yermochenko\n";
+    cout << "Group: XX\n";
     return 0;
 }
-
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
 // Отладка программы: F5 или меню "Отладка" > "Запустить отладку"
 
