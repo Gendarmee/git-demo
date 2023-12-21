@@ -1,14 +1,16 @@
-﻿#include <iostream>
-#include <iomanip>
-
+﻿// Vova Leksakov Роза ветров(6 Вариант)
+//
+//
+//
+//
 using namespace std;
 
 #include "book_subscription.h"
 #include "file_reader.h"
 #include "constants.h"
 
-int main()
-{
+
+
     setlocale(LC_ALL, "Russian");
     cout << "Лабораторная работа №8. GIT\n";
     cout << "Вариант №0. Библиотечный абонемент\n";
@@ -71,5 +73,5 @@ int main()
     {
         cout << error << '\n';
     }
-    return 0;
-}
+    }
+}}}}
