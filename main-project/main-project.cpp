@@ -1,4 +1,4 @@
-﻿// Vova Leksakov Роза ветров(6 Вариант)
+﻿// Vova Leksakov Роза ветров(6 Вариант) 
 #include <iostream>
 
 using namespace std;
